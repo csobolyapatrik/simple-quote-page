@@ -1,4 +1,17 @@
+*{
+  box-sizing: border-box;
+}
 body{
   background: url('assets/freedom.jpg') no-repeat center center fixed;
   background-size: cover;
+}
+.idezet{
+  text-align: center;
+  margin: 10% auto;
+  max-width: 90%;
+  font-family: 'Julius Sans One';
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.08em;
+  font-weight: lighter;
 }
